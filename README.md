@@ -7,7 +7,7 @@ for the [Test Title](http://knpu.l:8080/app_dev.php/screencast/test) course on K
 
 If you have suggestions or questions, please feel free to
 open an issue on this repository or comment on the course
-itself. We're watching both :).
+itself. We're watching both :). 
 
 ## Thanks!
 
